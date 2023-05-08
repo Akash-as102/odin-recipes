@@ -1,0 +1,11 @@
+.heading{
+    text-align: center;
+    background-color: rgb(219, 76, 76);
+    height: 100px;
+    font-size: 75px;
+}
+li{
+    padding:20px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+}
